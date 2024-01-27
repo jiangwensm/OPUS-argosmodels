@@ -1,0 +1,74 @@
+[
+    {
+        "package_version": "1.0",
+        "argos_version": "1.9.0",
+        "from_code": "zh",
+        "from_name": "Chinese",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://raw.githubusercontent.com/jiangwensm/OPUS-argosmodels/main/1.0/translate-zh_en-1_0.argosmodel"
+        ],
+        "code": "translate-zh_en"
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "zh",
+        "to_name": "Chinese",
+        "links": [
+            "https://raw.githubusercontent.com/jiangwensm/OPUS-argosmodels/main/1.0/translate-en_zh-1_0.argosmodel"
+        ],
+        "code": "translate-en_zh"
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "zt",
+        "to_name": "Chinese (traditional)",
+        "links": [
+            "https://raw.githubusercontent.com/jiangwensm/OPUS-argosmodels/main/1.0/translate-en_zt-1_0.argosmodel"
+        ],
+        "code": "translate-en_zt"
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.9.0",
+        "from_code": "zt",
+        "from_name": "Chinese (traditional)",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://raw.githubusercontent.com/jiangwensm/OPUS-argosmodels/main/1.0/translate-zt_en-1_0.argosmodel"
+        ],
+        "code": "translate-zt_en"
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.9.0",
+        "from_code": "en",
+        "from_name": "English",
+        "to_code": "vi",
+        "to_name": "Vietnamese",
+        "links": [
+            "https://raw.githubusercontent.com/jiangwensm/OPUS-argosmodels/main/1.0/translate-en_vi-1_0.argosmodel"
+        ],
+        "code": "translate-en_vi"
+    },
+    {
+        "package_version": "1.0",
+        "argos_version": "1.9.0",
+        "from_code": "vi",
+        "from_name": "Vietnamese",
+        "to_code": "en",
+        "to_name": "English",
+        "links": [
+            "https://raw.githubusercontent.com/jiangwensm/OPUS-argosmodels/main/1.0/translate-vi_en-1_0.argosmodel"
+        ],
+        "code": "translate-vi_en"
+    }
+]
